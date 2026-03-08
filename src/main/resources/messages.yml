@@ -1,0 +1,4 @@
+spawned: "<gradient:#6A11CB:#2575FC>✦ Таинственный торговец явился! ✦</gradient> &#D0D0D0Координаты: &#FFFFFFX:{x} Y:{y} Z:{z}"
+summoned: "<gradient:#F7971E:#FFD200>✦ Ритуал завершён:</gradient> &#FFFFFF{player} &#D0D0D0призвал таинственного торговца."
+despawn: "<gradient:#434343:#000000>Туман рассеялся... торговец исчез.</gradient>"
+no-permission: "<gradient:#FF512F:#DD2476>Недостаточно прав для этой команды.</gradient>"

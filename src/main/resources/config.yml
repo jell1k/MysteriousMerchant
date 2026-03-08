@@ -1,0 +1,66 @@
+spawn:
+  enabled: true
+  interval-hours: 4
+  locations:
+    spawn1:
+      world: world
+      x: 120
+      y: 65
+      z: -230
+    spawn2:
+      world: world
+      x: -300
+      y: 70
+      z: 180
+
+lifetime-minutes: 5
+
+bossbar:
+  enabled: true
+  color: PURPLE
+  style: SOLID
+
+hologram:
+  prefer-decentholograms: true
+
+summon-item:
+  material: ENDER_EYE
+  name: "<gradient:#7928CA:#FF0080>Осколок Призыва Странника</gradient>"
+  lore:
+    - "&#CFCFCFПКМ: начать ритуал появления"
+    - "<gradient:#F7971E:#FFD200>Редчайший артефакт из запретной лавки</gradient>"
+
+rarity-chances:
+  COMMON: 50
+  UNCOMMON: 25
+  RARE: 15
+  EPIC: 7
+  LEGENDARY: 2
+  MYTHIC: 1
+
+effects:
+  particles: true
+  sound: true
+
+spawn-animation:
+  enabled: true
+  duration-seconds: 4
+  particles:
+    portal: true
+    witch: true
+    dragon-breath: true
+  lightning: true
+  sounds: true
+
+merchant-names:
+  - "<gradient:#8E2DE2:#4A00E0>Странник из Бездны</gradient>"
+  - "<gradient:#FC466B:#3F5EFB>Торговец Теней</gradient>"
+  - "<gradient:#00B09B:#96C93D>Путник Миров</gradient>"
+  - "<gradient:#C33764:#1D2671>Хранитель Затерянных Сделок</gradient>"
+  - "<gradient:#F7971E:#FFD200>Паломник Разломов</gradient>"
+
+skin-variants:
+  - "#6b2d8f"
+  - "#2f4f9d"
+  - "#1f7a72"
+  - "#8b3a3a"

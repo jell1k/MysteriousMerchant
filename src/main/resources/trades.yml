@@ -1,0 +1,108 @@
+trades:
+  trade1:
+    rarity: COMMON
+    cost:
+      material: IRON_INGOT
+      amount: 10
+    result:
+      material: EMERALD
+      amount: 2
+
+  trade2:
+    rarity: UNCOMMON
+    cost:
+      material: GOLD_INGOT
+      amount: 12
+    result:
+      material: ENDER_PEARL
+      amount: 2
+
+  trade3:
+    rarity: RARE
+    cost:
+      material: DIAMOND
+      amount: 5
+    result:
+      material: TOTEM_OF_UNDYING
+      amount: 1
+
+  trade4:
+    rarity: EPIC
+    cost:
+      material: EMERALD
+      amount: 24
+    result:
+      material: SHULKER_SHELL
+      amount: 2
+
+  trade5:
+    rarity: LEGENDARY
+    cost:
+      material: DIAMOND
+      amount: 20
+    result:
+      material: NETHERITE_INGOT
+      amount: 1
+
+  trade6:
+    rarity: MYTHIC
+    cost:
+      material: NETHER_STAR
+      amount: 1
+    result:
+      material: ELYTRA
+      amount: 1
+
+  trade7:
+    rarity: COMMON
+    cost:
+      material: COAL
+      amount: 32
+    result:
+      material: EXPERIENCE_BOTTLE
+      amount: 8
+
+  trade8:
+    rarity: UNCOMMON
+    cost:
+      material: REDSTONE
+      amount: 40
+    result:
+      material: GLOWSTONE
+      amount: 16
+
+  trade9:
+    rarity: RARE
+    cost:
+      material: QUARTZ
+      amount: 24
+    result:
+      material: AMETHYST_SHARD
+      amount: 20
+
+  trade10:
+    rarity: EPIC
+    cost:
+      material: BLAZE_ROD
+      amount: 14
+    result:
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+
+  trade11:
+    rarity: LEGENDARY
+    cost:
+      material: ANCIENT_DEBRIS
+      amount: 2
+    result:
+      material: NETHERITE_SCRAP
+      amount: 4
+
+  trade12:
+    rarity: MYTHIC
+    cost:
+      material: DRAGON_BREATH
+      amount: 16
+    result:
+      material: BEACON
+      amount: 1

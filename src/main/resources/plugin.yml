@@ -1,0 +1,15 @@
+name: MysteriousMerchant
+version: '${version}'
+main: org.unixland.mysteriousmerchant.MysteriousMerchantPlugin
+api-version: '1.20'
+softdepend:
+  - DecentHolograms
+  - HolographicDisplays
+commands:
+  mmerchant:
+    description: Main command for MysteriousMerchant
+    usage: /mmerchant <give|spawn|remove|editor|reload>
+permissions:
+  mmerchant.admin:
+    description: Full access to MysteriousMerchant
+    default: op
